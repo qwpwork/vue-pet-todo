@@ -1,53 +1,14 @@
 # default
 
-## Project setup
+## Tech stack
 
 ```
-# yarn
-yarn
+Vite proj with: Vue3 + Vuetify + TS (little bit)
+```
 
-# npm
+## To start the project
+
+```
 npm install
-
-# pnpm
-pnpm install
-
-# bun
-bun install
-```
-
-### Compiles and hot-reloads for development
-
-```
-# yarn
-yarn dev
-
-# npm
 npm run dev
-
-# pnpm
-pnpm dev
-
-# bun
-bun run dev
 ```
-
-### Compiles and minifies for production
-
-```
-# yarn
-yarn build
-
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# bun
-bun run build
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://vitejs.dev/config/).
